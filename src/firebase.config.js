@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBaYg1-pbH-6N_nS3hvTQ6aXVW8isrql0Q",
-  authDomain: "metro-trip-auth.firebaseapp.com",
-  projectId: "metro-trip-auth",
-  storageBucket: "metro-trip-auth.appspot.com",
-  messagingSenderId: "591690829674",
-  appId: "1:591690829674:web:73ab77b973b5288adf9f13"
+  apiKey: "AIzaSyBR35z1EbUWv2MpFZiYYh5rtAHYMsRXhhE",
+  authDomain: "book-worm-store.firebaseapp.com",
+  projectId: "book-worm-store",
+  storageBucket: "book-worm-store.appspot.com",
+  messagingSenderId: "766255568634",
+  appId: "1:766255568634:web:f2a9a434591fcd0606db43"
 };
   export default firebaseConfig;
   
